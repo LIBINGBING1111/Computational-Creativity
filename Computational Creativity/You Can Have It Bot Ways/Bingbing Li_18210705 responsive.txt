@@ -1,0 +1,72 @@
+{
+	".":"#chicken fillet roll#",
+   "[N|n][O|o][T|t] [M|m][E|e][A|a][T|t]": "#not meat chicken fillet roll#",
+   "[N|n][O|o] [M|m][E|e][A|a][T|t]": "#not meat chicken fillet roll#",
+   "[U|u][N|n][M|m][E|e][A|a][T|t]": "#not meat chicken fillet roll#",
+   "[M|m][E|e][A|a][T|t]-[F|f][R|r][E|e][E|e]": "#not meat chicken fillet roll#",
+   "[M|m][E|e][A|a][T|t] [F|f][R|r][E|e][E|e]": "#not meat chicken fillet roll#",
+   "[M|m][E|e][A|a][T|t]": "#meat chicken fillet roll#",
+
+   "[N|n][O|o][T|t] [S|s][A|a][L|l][T|t][Y|y]": "#not salty chicken fillet roll#",
+   "[N|n][O|o] [S|s][A|a][L|l][T|t][Y|y]":"#not salty chicken fillet roll#",
+   "[U|u][N|n][S|s][A|a][L|l][T|t][Y|y]": "#not salty chicken fillet roll#",
+   "[S|s][A|a][L|l][T|t][Y|y]-[F|f][R|r][E|e][E|e]":"#not salty chicken fillet roll#",
+   "[S|s][A|a][L|l][T|t][Y|y] [F|f][R|r][E|e][E|e]": "#not salty chicken fillet roll#",
+   "[S|s][A|a][L|l][T|t][Y|y]": "#salty chicken fillet roll#",
+
+   "[N|n][O|o][T|t] [S|s][P|p][I|i][C|c][Y|y]": "#not spicy chicken fillet roll#",
+   "[N|n][O|o] [S|s][P|p][I|i][C|c][Y|y]": "#not spicy chicken fillet roll#",
+   "[U|u][N|n][S|s][P|p][I|i][C|c][Y|y]": "#not spicy chicken fillet roll#",
+   "[S|s][P|p][I|i][C|c][Y|y]-[F|f][R|r][E|e][E|e]": "#not spicy chicken fillet roll#",
+   "[S|s][P|p][I|i][C|c][Y|y] [F|f][R|r][E|e][E|e]": "#not spicy chicken fillet roll#",
+   "[S|s][P|p][I|i][C|c][Y|y]": "#spicy chicken fillet roll#",
+
+   "[N|n][O|o][T|t] [D|d][A|a][I|i][R|r][Y|y]": "#not dairy chicken fillet roll#",
+   "[N|n][O|o] [D|d][A|a][I|i][R|r][Y|y]": "#not dairy chicken fillet roll#",
+   "[U|u][N|n][D|d][A|a][I|i][R|r][Y|y]": "#not dairy chicken fillet roll#",
+   "[D|d][A|a][I|i][R|r][Y|y]-[F|f][R|r][E|e][E|e]": "#not dairy chicken fillet roll#",
+   "[D|d][A|a][I|i][R|r][Y|y] [F|f][R|r][E|e][E|e]": "#not dairy chicken fillet roll#",
+   "[D|d][A|a][I|i][R|r][Y|y]": "#dairy chicken fillet roll#",
+
+   "[N|n][O|o][T|t] [P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h]": "#not protein-rich chicken fillet roll#",
+   "[N|n][O|o] [P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h]": "#not protein-rich chicken fillet roll#",
+   "[U|u][N|n][P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h]": "#not protein-rich chicken fillet roll#",
+   "[P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h]-[F|f][R|r][E|e][E|e]": "#not protein-rich chicken fillet roll#",
+   "[P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h][F|f][R|r][E|e][E|e]": "#not protein-rich chicken fillet roll#",
+   "[P|p][R|r][O|o][T|t][E|e][I|i][N|n][-][R|r][I|i][C|c][H|h]": "#protein-rich chicken fillet roll#",
+
+
+   "[N|n][O|o][T|t] [S|s][W|w][E|e][E|e][T|t]": "#not sweet chicken fillet roll#",
+   "[N|n][O|o] [S|s][W|w][E|e][E|e][T|t]": "#not sweet chicken fillet roll#",
+   "[U|u][N|n][S|s][W|w][E|e][E|e][T|t]": "#not sweet chicken fillet roll#",
+   "[S|s][W|w][E|e][E|e][T|t]-[F|f][R|r][E|e][E|e]": "#not sweet chicken fillet roll#",
+   "[S|s][W|w][E|e][E|e][T|t] [F|f][R|r][E|e][E|e]": "#not sweet chicken fillet roll#",
+   "[S|s][W|w][E|e][E|e][T|t]": "#sweet chicken fillet roll#",
+
+   "[H|h][E|e][A|a][L|l][T|t][H|h][Y|y]": "#healthy chicken fillet roll#"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

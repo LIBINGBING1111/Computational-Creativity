@@ -1,0 +1,12 @@
+{
+        "origin": ["#chicken fillet roll#"],
+        "chicken fillet roll":["#hot food# and #salad# with #sause# in #bread# #cut option# ."],
+        "hot food":["Plain Breaded Chicken Fillet","Southern Fried Chicken Fillet","Spicy Chicken Fillet"],
+        "salad":["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese","Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Sweetcorn","Mixed Peppers","Whole Boiled Egg"],
+        "sause":["Butter","Mayonnaise","Garlic Mayo","Sweet Tomato Relish","Green Pesto","Mustard","Sweet Chilli Sauce","BBQ Sauce","Tomato Ketchup","Brown Sauce","Taco Sauce","Siriracha sauce","Chipotle Mayo"],
+        "bread":["white bread","brown bread","White Demi Baguette","Triple Grain Demi Baguette","Rustic Demi Baguette","Seeded Ciabatta","White Sub","Bagel","Tortilla Wrap","Spinach Wrap","Wholemeal Wrap","Tomato Wrap"],
+        "cut option":["cut in half",""]
+}
+
+
+twitter account:  https://twitter.com/bingbingliucdc1

@@ -1,0 +1,1433 @@
+{
+   "origin": ["#chicken fillet roll#"],
+
+    "chicken fillet roll": ["I made this chicken fillet roll with #split chicken fillet roll#"],
+   "split chicken fillet roll": ["#hot food mod##hot food head#","#salad mod##salad head#","#sauce mod##sauce head#"],
+   "cut option":["cut in half",""],
+
+   "hot food":["Plain Breaded Chicken Fillet","Southern Fried Chicken Fillet","Spicy Chicken Fillet"],
+  "Plain Breaded Chicken Fillet  fore":["Innocent","Original","Mild"],
+"Southern Fried Chicken Fillet fore":["Southern","Juicy","Sun-tanned"],
+ "Spicy Chicken Fillet fore":["Spicy","Flaming","Mexican"],
+
+"salad":["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese","Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Sweetcorn","Mixed Peppers","Whole Boiled Egg"],
+"Grated Red Cheese fore":["Yorkshire"],
+"Grated White Cheese fore":["Greek","Zorba's", "Athenian"],
+"Sliced Red Cheese fore":["Sliced red"],
+"Sliced White Cheese fore":["Sliced white"],
+"Brie fore":["Cypriot"],
+"Goats Cheese fore":["Billy Goat","Ram","Headbutt"],
+"Coleslaw fore":["Refresh"],
+"Egg Mayo fore":["Protein-plus"],
+"Iceberg Lettuce fore":["Green","Mediterranean"],
+"Mixed Leaves fore":["Forest","Leaves"],
+"Sliced Tomato fore":["Succulent"],
+"Red Onion fore":["Red-Eye"],
+"Cucumber fore":["Wrinkled"],
+"Stuffing fore":["Crisp-stuffing"],
+"Roasted Red Peppers fore":["Ringing","Ding-Dong"],
+"Sweetcorn fore":["Autumn"],
+"Mixed Peppers fore":["Striped"],
+"Whole Boiled Egg fore":["Protein"],
+
+"sauce":["Butter","Mayonnaise","Garlic Mayo","Sweet Tomato Relish","Green Pesto","Mustard","Sweet Chilli Sauce","BBQ Sauce","Tomato Ketchup","Brown Sauce","Taco Sauce","Chipotle Mayo"],
+"Butter fore":["Buttery"],
+"Mayonnaise fore":["Creamy","Mayo"],
+"Garlic Mayo fore":["West-coast","Beverly Hills"],
+"Sweet Tomato Relish fore":["Tuscan"],
+"Green Pesto fore":["Fawlty"],
+"Mustard fore":["Bittersweet"],
+"Sweet Chilli sauce fore":["Sweet Chilli"],
+"BBQ Sauce fore":["Outdoors"],
+"Tomato Ketchup fore":["Spanish"],
+"Brown Sauce fore":["Midnight"],
+"Taco Sauce fore":["Western"],
+"Chipotle Mayo fore":["Western","Creamy"],
+"Chipotle Mayo aft":["Cowboy", "Buckaroo"],
+
+
+"bread":["White bread","Brown bread","White Demi Baguette","Triple Grain Demi Baguette","Rustic Demi Baguette","Seeded Ciabatta","White Sub","Bagel","Tortilla Wrap","Spinach Wrap","Wholemeal Wrap","Tomato Wrap"],
+"White bread aft":["Original-white"],
+"Brown bread aft":["Brown"],
+"White Demi Baguette aft":["White Demi"],
+"Triple Grain Demi Baguette aft":["Triple Grained"],
+"Rustic Demi Baguette aft":["Rustic Demi"],
+"Seeded Ciabatta aft":["Seeded Ciabatta"],
+"White Sub aft":["White Sub"],
+"Bagel aft":["Bagel"],
+"Tortilla Wrap aft":["Tortilla Wrap"],
+"Spinach Wrap aft":["Spinach Wrap"],
+"Wholemeal Wrap aft":["Wholemeal Wrap"],
+"Tomato Wrap aft":["Tomato Wrap"],
+
+
+  "hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"hot food head":[
+"BONG' because it also has Roasted Red Peppers with #sauce# in #bread# #cut option#",
+"Sundae' because it also has Sliced Tomato with #sauce# in #bread# #cut option#",
+"Sauna' because it also has Coleslaw with #sauce# in #bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #sauce# in #bread# #cut option#",
+
+" Butterfingers' because it also has #salad#  with Butter in #bread# #cut option#",
+" Barbie Doll' because it also has  #salad# with BBQ Sauce in #bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #salad#  with Chipotle Mayo in #bread# #cut option#",
+" Emperor' because it also has #salad# with Brown Sauce in #bread# #cut option#",
+" Gaucho' because it also has #salad# with Garlic Mayo in #bread# #cut option#",
+
+" #White bread aft# because it also has #salad# with #sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #salad# with #sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #salad# with #sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #salad# with #sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #salad# with #sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #salad# with #sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #salad# with #sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #salad# with #sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #salad# with #sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #salad# with #sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #salad# with #sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #salad# with #sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #salad# with #sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #salad# with #sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #salad# with #sauce# in Tomato Wrap #cut option#"
+
+],
+
+"salad mod": [
+"#hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+ "#hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#hot food# and  Brie  and called it 'Cypriot",
+"#hot food# and  Goats Cheese and called it #Goats Cheese fore#",
+"#hot food# and  Coleslaw and called it 'Refresh",
+"#hot food# and  Egg Mayo and called it 'Protein-plus",
+"#hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#hot food# and  Red Onion and called it #Red Onion fore#",
+"#hot food# and  Cucumber and called it #Cucumber fore#",
+"#hot food# and  Stuffing and called it #Stuffing fore#",
+"#hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#hot food# and Mixed Peppers and called it #Mixed Peppers fore#",
+"#hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"salad head":[
+" Butterfingers' because it also has Butter in #bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #bread# #cut option#",
+
+" #White bread aft# because it also has #sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #sauce# in Tomato Wrap #cut option#"
+],
+
+"sauce mod":[
+"#hot food# and #salad# with Butter and called it '#Butter fore#",
+"#hot food# and #salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#hot food# and #salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#hot food# and #salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#hot food# and #salad# with Green Pesto and called it '#Green Pesto fore#",
+"#hot food# and #salad# with Mustard and called it '#Mustard fore#",
+"#hot food# and #salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#hot food# and #salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#hot food# and #salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#hot food# and #salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#hot food# and #salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#hot food# and #salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+
+
+"meat chicken fillet roll": ["I made this chicken fillet roll with #meat split chicken fillet roll#"],
+  "meat hot food": ["#hot food#"],
+   "meat salad": ["#salad#"],
+   "meat sauce": ["#sauce#"],
+   "meat bread": ["#bread#"],
+
+"meat hot food mod":["#hot food mod#"],
+"meat hot food head":[
+"BONG' because it also has Roasted Red Peppers with #meat sauce# in #meat bread# #cut option#",
+"Sundae' because it also has Sliced Tomato with #meat sauce# in #meat bread# #cut option#",
+"Sauna' because it also has Coleslaw with #meat sauce# in #meat bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #meat sauce# in #meat bread# #cut option#",
+
+" Butterfingers' because it also has #meat salad#  with Butter in #meat bread# #cut option#",
+" Barbie Doll' because it also has  #meat salad# with BBQ Sauce in #meat bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #meat salad#  with Chipotle Mayo in #meat bread# #cut option#",
+" Emperor' because it also has #meat salad# with Brown Sauce in #meat bread# #cut option#",
+" Gaucho' because it also has #meat salad# with Garlic Mayo in #meat bread# #cut option#",
+
+" #White bread aft# because it also has #meat salad# with #meat sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #meat salad# with #meat sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #meat salad# with #meat sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #meat salad# with #meat sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #meat salad# with #meat sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #meat salad# with #meat sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #meat salad# with #meat sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #meat salad# with #meat sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #meat salad# with #meat sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #meat salad# with #meat sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #meat salad# with #meat sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #meat salad# with #meat sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #meat salad# with #meat sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #meat salad# with #meat sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #meat salad# with #meat sauce# in Tomato Wrap #cut option#"
+],
+
+"meat salad mod": [
+"#meat hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#meat hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#meat hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#meat hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#meat hot food# and  Brie  and called it 'Cypriot",
+"#meat hot food# and  Goats Cheese and called it #Goats Cheese fore#",
+"#meat hot food# and  Coleslaw and called it 'Refresh",
+"#meat hot food# and  Egg Mayo and called it 'Protein-plus",
+"#meat hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#meat hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#meat hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#meat hot food# and  Red Onion and called it #Red Onion fore#",
+"#meat hot food# and  Cucumber and called it #Cucumber fore#",
+"#meat hot food# and  Stuffing and called it #Stuffing fore#",
+"#meat hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#meat hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#meat hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#meat hot food# and Mixed Peppers and called it #Mixed Peppers fore#",
+"#meat hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"],
+
+"meat salad head":[
+" Butterfingers' because it also has Butter in #meat bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #meat bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #meat bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #meat bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #meat bread# #cut option#",
+
+" #White bread aft# because it also has #meat sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #meat sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #meat sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #meat sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #meat sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #meat sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #meat sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #meat sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #meat sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #meat sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #meat sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #meat sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #meat sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #meat sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #meat sauce# in Tomato Wrap #cut option#"
+],
+
+"meat sauce mod":[
+"#meat hot food# and #meat salad# with Butter and called it '#Butter fore#",
+"#meat hot food# and #meat salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#meat hot food# and #meat salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#meat hot food# and #meat salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#meat hot food# and #meat salad# with Green Pesto and called it '#Green Pesto fore#",
+"#meat hot food# and #meat salad# with Mustard and called it '#Mustard fore#",
+"#meat hot food# and #meat salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#meat hot food# and #meat salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#meat hot food# and #meat salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#meat hot food# and #meat salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#meat hot food# and #meat salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#meat hot food# and #meat salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"meat sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+   "meat split chicken fillet roll": ["#meat hot food mod##meat hot food head#","#meat salad mod##meat salad head#","#meat sauce mod##meat sauce head#"],
+
+
+"salty chicken fillet roll": ["I made this chicken fillet roll  with #salty split chicken fillet roll#"],
+  "salty hot food": ["Southern Fried Chicken Fillet"],
+   "salty salad": ["Grated Red Cheese","Grated White Cheese","Roasted Red Peppers"],
+   "salty sauce": ["Garlic Mayo","Green Pesto","Brown Sauce"],
+   "salty bread": ["#bread#"],
+
+
+"salty hot food mod": ["Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#"],
+
+"salty hot food head":[
+"BONG' because it also has Roasted Red Peppers with #salty sauce# in #salty bread# #cut option#",
+
+" Emperor' because it also has #salty salad# with Brown Sauce in #salty bread# #cut option#",
+" Gaucho' because it also has #salty salad# with Garlic Mayo in #salty bread# #cut option#",
+
+" #White bread aft# because it also has #salty salad# with #salty sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #salty salad# with #salty sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #salty salad# with #salty sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #salty salad# with #salty sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #salty salad# with #salty sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #salty salad# with #salty sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #salty salad# with #salty sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #salty salad# with #salty sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #salty salad# with #salty sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #salty salad# with #salty sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #salty salad# with #salty sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #salty salad# with #salty sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #salty salad# with #salty sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #salty salad# with #salty sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #salty salad# with #salty sauce# in Tomato Wrap #cut option#"
+],
+
+"salty salad mod": [
+"#salty hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#salty hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#salty hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#"],
+
+"salty salad head":[
+" Emperor' because it also has Brown Sauce in #salty bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #salty bread# #cut option#",
+
+" #White bread aft# because it also has #salty sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #salty sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #salty sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #salty sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #salty sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #salty sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #salty sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #salty sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #salty sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #salty sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #salty sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #salty sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #salty sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #salty sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #salty sauce# in Tomato Wrap #cut option#"
+],
+
+"salty sauce mod":[
+"#salty hot food# and #salty salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#salty hot food# and #salty salad# with Brown Sauce and called it '#Brown Sauce fore#"
+],
+
+"salty sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+ "salty split chicken fillet roll": ["#salty hot food mod##salty hot food head#","#salty salad mod##salty salad head#","#salty sauce mod##salty sauce head#"],
+
+
+
+"spicy chicken fillet roll": ["I made this chicken fillet roll with #spicy split chicken fillet roll#"],
+  "spicy hot food": ["Spicy Chicken Fillet"],
+   "spicy salad": ["Red Onion","Roasted Red Peppers","Mixed Peppers"],
+   "spicy sauce": ["Mustard","Taco Sauce"],
+   "spicy bread": ["#bread#"],
+
+  "spicy hot food mod":["Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"spicy hot food head":[
+"BONG' because it also has Roasted Red Peppers with #spicy sauce# in #spicy bread# #cut option#",
+
+" #White bread aft# because it also has #spicy salad# with #spicy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #spicy salad# with #spicy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #spicy salad# with #spicy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #spicy salad# with #spicy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #spicy salad# with #spicy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #spicy salad# with #spicy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #spicy salad# with #spicy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #spicy salad# with #spicy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #spicy salad# with #spicy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #spicy salad# with #spicy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #spicy salad# with #spicy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #spicy salad# with #spicy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #spicy salad# with #spicy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #spicy salad# with #spicy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #spicy salad# with #spicy sauce# in Tomato Wrap #cut option#"
+
+],
+
+"spicy salad mod": [
+"#spicy hot food# and  Red Onion and called it #Red Onion fore#",
+"#spicy hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#spicy hot food# and Mixed Peppers and called it #Mixed Peppers fore#"
+],
+
+"spicy salad head":[
+" #White bread aft# because it also has #spicy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #spicy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #spicy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #spicy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #spicy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #spicy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #spicy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #spicy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #spicy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #spicy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #spicy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #spicy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #spicy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #spicy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #spicy sauce# in Tomato Wrap #cut option#"
+],
+
+"spicy sauce mod":[
+"#spicy hot food# and #spicy salad# with Mustard and called it '#Mustard fore#",
+"#spicy hot food# and #spicy salad# with Taco Sauce and called it '#Taco Sauce fore#"
+],
+"spicy sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+ "spicy split chicken fillet roll": ["#spicy hot food mod##spicy hot food head#","#spicy salad mod##spicy salad head#","#spicy sauce mod##spicy sauce head#"],
+
+
+"dairy chicken fillet roll": ["I made this chicken fillet roll with #dairy split chicken fillet roll#"],
+  "dairy hot food": ["#hot food#"],
+   "dairy salad": ["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese"],
+   "dairy sauce": ["#sauce#"],
+   "dairy bread": ["#bread#"],
+
+  "dairy hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+
+
+"dairy hot food head":[
+" Butterfingers' because it also has #dairy salad#  with Butter in #dairy bread# #cut option#",
+" Barbie Doll' because it also has  #dairy salad# with BBQ Sauce in #dairy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #dairy salad#  with Chipotle Mayo in #dairy bread# #cut option#",
+" Emperor' because it also has #dairy salad# with Brown Sauce in #dairy bread# #cut option#",
+" Gaucho' because it also has #dairy salad# with Garlic Mayo in #dairy bread# #cut option#",
+
+" #White bread aft# because it also has #dairy salad# with #dairy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #dairy salad# with #dairy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #dairy salad# with #dairy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #dairy salad# with #dairy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #dairy salad# with #dairy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #dairy salad# with #dairy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #dairy salad# with #dairy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #dairy salad# with #dairy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #dairy salad# with #dairy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #dairy salad# with #dairy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #dairy salad# with #dairy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #dairy salad# with #dairy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #dairy salad# with #dairy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #dairy salad# with #dairy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #dairy salad# with #dairy sauce# in Tomato Wrap #cut option#"
+
+],
+
+"dairy salad mod": [
+"#dairy hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#dairy hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#dairy hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+ "#dairy hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#dairy hot food# and  Brie  and called it 'Cypriot",
+"#dairy hot food# and  Goats Cheese and called it #Goats Cheese fore#"
+],
+
+"dairy salad head":[
+" Butterfingers' because it also has Butter in #dairy bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #dairy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #dairy bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #dairy bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #dairy bread# #cut option#",
+
+" #White bread aft# because it also has #dairy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #dairy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #dairy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #dairy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #dairy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #dairy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #dairy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #dairy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #dairy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #dairy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #dairy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #dairy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #dairy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #dairy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #dairy sauce# in Tomato Wrap #cut option#"
+],
+
+"dairy sauce mod":[
+"#dairy hot food# and #dairy salad# with Butter and called it '#Butter fore#",
+"#dairy hot food# and #dairy salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#dairy hot food# and #dairy salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#dairy hot food# and #dairy salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#dairy hot food# and #dairy salad# with Green Pesto and called it '#Green Pesto fore#",
+"#dairy hot food# and #dairy salad# with Mustard and called it '#Mustard fore#",
+"#dairy hot food# and #dairy salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#dairy hot food# and #dairy salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#dairy hot food# and #dairy salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#dairy hot food# and #dairy salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#dairy hot food# and #dairy salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#dairy hot food# and #dairy salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"dairy sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+ "dairy split chicken fillet roll": ["#dairy hot food mod##dairy hot food head#","#dairy salad mod##dairy salad head#","#dairy sauce mod##dairy sauce head#"],
+
+
+
+"protein-rich chicken fillet roll": ["I made this chicken fillet roll with #protein-rich split chicken fillet roll#"],
+  "protein-rich hot food": ["#hot food#"],
+   "protein-rich salad": ["Egg Mayo","Whole Boiled Egg"],
+   "protein-rich sauce": ["Mayonnaise"],
+   "protein-rich bread": ["#bread#"],
+
+  "protein-rich hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"protein-rich hot food head":[
+"Mummy' because it also has Whole Boiled Egg with #protein-rich sauce# in #protein-rich bread# #cut option#",
+
+" #White bread aft# because it also has #protein-rich salad# with #protein-rich sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #protein-rich salad# with #protein-rich sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #protein-rich salad# with #protein-rich sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #protein-rich salad# with #protein-rich sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #protein-rich salad# with #protein-rich sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #protein-rich salad# with #protein-rich sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #protein-rich salad# with #protein-rich sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #protein-rich salad# with #protein-rich sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #protein-rich salad# with #protein-rich sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #protein-rich salad# with #protein-rich sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #protein-rich salad# with #protein-rich sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #protein-rich salad# with #protein-rich sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #protein-rich salad# with #protein-rich sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #protein-rich salad# with #protein-rich sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #protein-rich salad# with #protein-rich sauce# in Tomato Wrap #cut option#"
+],
+
+"protein-rich salad mod": [
+"#protein-rich hot food# and  Egg Mayo and called it 'Protein-plus",
+"#protein-rich hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"protein-rich salad head":[
+" #White bread aft# because it also has #protein-rich sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #protein-rich sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #protein-rich sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #protein-rich sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #protein-rich sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #protein-rich sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #protein-rich sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #protein-rich sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #protein-rich sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #protein-rich sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #protein-rich sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #protein-rich sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #protein-rich sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #protein-rich sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #protein-rich sauce# in Tomato Wrap #cut option#"
+],
+
+"protein-rich sauce mod":[
+"#protein-rich hot food# and #protein-rich salad# with Mayonnaise and called it '#Mayonnaise fore#"
+],
+"protein-rich sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+ "protein-rich split chicken fillet roll": ["#protein-rich hot food mod##protein-rich hot food head#","#protein-rich salad mod##protein-rich salad head#","#protein-rich sauce mod##protein-rich sauce head#"],
+
+"sweet chicken fillet roll": ["I made this chicken fillet roll with #sweet split chicken fillet roll#"],
+  "sweet hot food": ["#hot food#"],
+   "sweet salad": ["Sliced Tomato","Sweetcorn"],
+   "sweet sauce": ["Sweet Tomato Relish","Sweet Chilli Sauce","BBQ Sauce","Tomato Ketchup","Chipotle Mayo"],
+   "sweet bread": ["#bread#"],
+
+  "sweet hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"sweet hot food head":[
+"Sundae' because it also has Sliced Tomato with #sweet sauce# in #sweet bread# #cut option#",
+
+" Barbie Doll' because it also has  #sweet salad# with BBQ Sauce in #sweet bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #sweet salad#  with Chipotle Mayo in #sweet bread# #cut option#",
+
+" #White bread aft# because it also has #sweet salad# with #sweet sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #sweet salad# with #sweet sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #sweet salad# with #sweet sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #sweet salad# with #sweet sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #sweet salad# with #sweet sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #sweet salad# with #sweet sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #sweet salad# with #sweet sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #sweet salad# with #sweet sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #sweet salad# with #sweet sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #sweet salad# with #sweet sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #sweet salad# with #sweet sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #sweet salad# with #sweet sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #sweet salad# with #sweet sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #sweet salad# with #sweet sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #sweet salad# with #sweet sauce# in Tomato Wrap #cut option#"
+
+],
+
+"sweet salad mod": [
+"#sweet hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#sweet hot food# and  Sweetcorn and called it #Sweetcorn fore#"
+],
+
+"sweet salad head":[
+" Barbie Doll' because it also has BBQ Sauce in #sweet bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #sweet bread# #cut option#",
+
+" #White bread aft# because it also has #sweet sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #sweet sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #sweet sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #sweet sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #sweet sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #sweet sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #sweet sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #sweet sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #sweet sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #sweet sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #sweet sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #sweet sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #sweet sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #sweet sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #sweet sauce# in Tomato Wrap #cut option#"
+],
+
+"sweet sauce mod":[
+"#sweet hot food# and #sweet salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#sweet hot food# and #sweet salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#sweet hot food# and #sweet salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#sweet hot food# and #sweet salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#sweet hot food# and #sweet salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"sweet sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+ "sweet split chicken fillet roll": ["#sweet hot food mod##sweet hot food head#","#sweet salad mod##sweet salad head#","#sweet sauce mod##sweet sauce head#"],
+
+"healthy chicken fillet roll": ["I made this chicken fillet roll with #healthy split chicken fillet roll#"],
+  "healthy hot food": ["#hot food#"],
+   "healthy salad": ["Whole Boiled Egg"],
+   "healthy sauce": ["#sauce#"],
+   "healthy bread": ["Triple Grain Demi Baguette","Seeded Ciabatta","Wholemeal Wrap"],
+
+  "healthy hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"healthy hot food head":[
+"Mummy' because it also has Whole Boiled Egg with #healthy sauce# in #healthy bread# #cut option#",
+
+" Butterfingers' because it also has #healthy salad#  with Butter in #healthy bread# #cut option#",
+" Barbie Doll' because it also has  #healthy salad# with BBQ Sauce in #healthy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #healthy salad#  with Chipotle Mayo in #healthy bread# #cut option#",
+" Emperor' because it also has #healthy salad# with Brown Sauce in #healthy bread# #cut option#",
+" Gaucho' because it also has #healthy salad# with Garlic Mayo in #healthy bread# #cut option#",
+
+" #Triple Grain Demi Baguette aft# because it also has #healthy salad# with #healthy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Seeded Ciabatta aft# because it also has #healthy salad# with #healthy sauce# in Seeded Ciabatta #cut option#",
+" #Wholemeal Wrap aft# because it also has #healthy salad# with #healthy sauce# in Wholemeal Wrap #cut option#"
+
+],
+
+"healthy salad mod": [
+"#healthy hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"healthy salad head":[
+" Butterfingers' because it also has Butter in #healthy bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #healthy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #healthy bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #healthy bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #healthy bread# #cut option#",
+
+" #Triple Grain Demi Baguette aft# because it also has #healthy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Seeded Ciabatta aft# because it also has #healthy sauce# in Seeded Ciabatta #cut option#",
+" #Wholemeal Wrap aft# because it also has #healthy sauce# in Wholemeal Wrap #cut option#"
+],
+
+"healthy sauce mod":[
+"#healthy hot food# and #healthy salad# with Butter and called it '#Butter fore#",
+"#healthy hot food# and #healthy salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#healthy hot food# and #healthy salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#healthy hot food# and #healthy salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#healthy hot food# and #healthy salad# with Green Pesto and called it '#Green Pesto fore#",
+"#healthy hot food# and #healthy salad# with Mustard and called it '#Mustard fore#",
+"#healthy hot food# and #healthy salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#healthy hot food# and #healthy salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#healthy hot food# and #healthy salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#healthy hot food# and #healthy salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#healthy hot food# and #healthy salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#healthy hot food# and #healthy salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"healthy sauce head":[
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap"
+],
+
+ "healthy split chicken fillet roll": ["#healthy hot food mod##healthy hot food head#","#healthy salad mod##healthy salad head#","#healthy sauce mod##healthy sauce head#"],
+
+"not meat chicken fillet roll": ["I made this chicken fillet roll with #not meat split chicken fillet roll#"],
+  "not meat hot food": [""],
+   "not meat salad": ["#salad#"],
+   "not meat sauce": ["#sauce#"],
+   "not meat bread": ["#bread#"],
+
+"not meat salad mod": [
+"#not meat hot food# Grated Red Cheese and called it 'Yorkshire",
+"#not meat hot food# Grated White Cheese and called it #Grated White Cheese fore#",
+"#not meat hot food# Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not meat hot food# Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#not meat hot food# Brie  and called it 'Cypriot",
+"#not meat hot food# Goats Cheese and called it #Goats Cheese fore#",
+"#not meat hot food# Coleslaw and called it 'Refresh",
+"#not meat hot food# Egg Mayo and called it 'Protein-plus",
+"#not meat hot food#  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not meat hot food# Mixed Leaves and called it #Mixed Leaves fore#",
+"#not meat hot food# Sliced Tomato and called it #Sliced Tomato fore#",
+"#not meat hot food# Red Onion and called it #Red Onion fore#",
+"#not meat hot food# Cucumber and called it #Cucumber fore#",
+"#not meat hot food# Stuffing and called it #Stuffing fore#",
+"#not meat hot food# Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not meat hot food# Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#not meat hot food# Sweetcorn and called it #Sweetcorn fore#",
+"#not meat hot food# Mixed Peppers and called it #Mixed Peppers fore#",
+"#not meat hot food# aWhole Boiled Egg and called it #Whole Boiled Egg fore#"],
+
+"not meat salad head":[
+" Butterfingers' because it also has Butter in #not meat bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #not meat bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #not meat bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not meat bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not meat bread# #cut option#",
+
+" #White bread aft# because it also has #not meat sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not meat sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not meat sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not meat sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not meat sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not meat sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not meat sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not meat sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not meat sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not meat sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not meat sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not meat sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not meat sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not meat sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not meat sauce# in Tomato Wrap #cut option#"
+],
+
+"not meat sauce mod":[
+"#not meat hot food# #not meat salad# with Butter called it '#Butter fore#",
+"#not meat hot food# #not meat salad# with Mayonnaise called it '#Mayonnaise fore#",
+"#not meat hot food# #not meat salad# with Garlic Mayo called it '#Garlic Mayo fore#",
+"#not meat hot food# #not meat salad# with Sweet Tomato Relish called it '#Sweet Tomato Relish fore#",
+"#not meat hot food# #not meat salad# with Green Pesto called it '#Green Pesto fore#",
+"#not meat hot food# #not meat salad# with Mustard called it '#Mustard fore#",
+"#not meat hot food# #not meat salad# with Sweet Chilli sauce called it '#Sweet Chilli sauce fore#",
+"#not meat hot food# #not meat salad# with BBQ Sauce called it '#BBQ Sauce fore#",
+"#not meat hot food# #not meat salad# with Tomato Ketchup called it '#Tomato Ketchup fore#",
+"#not meat hot food# #not meat salad# with Brown Sauce called it '#Brown Sauce fore#",
+"#not meat hot food# #not meat salad# with Taco Sauce called it '#Taco Sauce fore#",
+"#not meat hot food# #not meat salad# with Chipotle Mayo called it '#Chipotle Mayo fore#"
+],
+
+"not meat sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+   "not meat split chicken fillet roll": ["#not meat salad mod##not meat salad head#","#not meat sauce mod##not meat sauce head#"],
+
+
+"not salty chicken fillet roll": ["I made this chicken fillet roll with #not salty split chicken fillet roll#"],
+  "not salty hot food": ["Plain Breaded Chicken Fillet","Spicy Chicken Fillet"],
+   "not salty salad": ["Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Sweetcorn","Mixed Peppers","Whole Boiled Egg"],
+   "not salty sauce": ["#sauce#"],
+   "not salty bread": ["#bread#"],
+
+  "not salty hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"not salty hot food head":[
+"BONG' because it also has Roasted Red Peppers with #not salty sauce# in #not salty bread# #cut option#",
+"Sundae' because it also has Sliced Tomato with #not salty sauce# in #not salty bread# #cut option#",
+"Sauna' because it also has Coleslaw with #not salty sauce# in #not salty bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #not salty sauce# in #not salty bread# #cut option#",
+
+" Butterfingers' because it also has #not salty salad#  with Butter in #not salty bread# #cut option#",
+" Barbie Doll' because it also has  #not salty salad# with BBQ Sauce in #not salty bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #not salty salad#  with Chipotle Mayo in #not salty bread# #cut option#",
+" Emperor' because it also has #not salty salad# with Brown Sauce in #not salty bread# #cut option#",
+" Gaucho' because it also has #not salty salad# with Garlic Mayo in #not salty bread# #cut option#",
+
+" #White bread aft# because it also has #not salty salad# with #not salty sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #not salty salad# with #not salty sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not salty salad# with #not salty sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not salty salad# with #not salty sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not salty salad# with #not salty sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not salty salad# with #not salty sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not salty salad# with #not salty sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not salty salad# with #not salty sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not salty salad# with #not salty sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not salty salad# with #not salty sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not salty salad# with #not salty sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not salty salad# with #not salty sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not salty salad# with #not salty sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not salty salad# with #not salty sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not salty salad# with #not salty sauce# in Tomato Wrap #cut option#"
+
+],
+
+"not salty salad mod": [
+"#not salty hot food# and  Coleslaw and called it 'Refresh",
+"#not salty hot food# and  Egg Mayo and called it 'Protein-plus",
+"#not salty hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not salty hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#not salty hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#not salty hot food# and  Red Onion and called it #Red Onion fore#",
+"#not salty hot food# and  Cucumber and called it #Cucumber fore#",
+"#not salty hot food# and  Stuffing and called it #Stuffing fore#",
+"#not salty hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not salty hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#not salty hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#not salty hot food# and Mixed Peppers and called it #Mixed Peppers fore#",
+"#not salty hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"not salty salad head":[
+" Butterfingers' because it also has Butter in #not salty bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #not salty bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #not salty bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not salty bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not salty bread# #cut option#",
+
+" #White bread aft# because it also has #not salty sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not salty sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not salty sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not salty sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not salty sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not salty sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not salty sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not salty sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not salty sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not salty sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not salty sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not salty sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not salty sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not salty sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not salty sauce# in Tomato Wrap #cut option#"
+],
+
+"not salty sauce mod":[
+"#not salty hot food# and #not salty salad# with Butter and called it '#Butter fore#",
+"#not salty hot food# and #not salty salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#not salty hot food# and #not salty salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#not salty hot food# and #not salty salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#not salty hot food# and #not salty salad# with Green Pesto and called it '#Green Pesto fore#",
+"#not salty hot food# and #not salty salad# with Mustard and called it '#Mustard fore#",
+"#not salty hot food# and #not salty salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#not salty hot food# and #not salty salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#not salty hot food# and #not salty salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#not salty hot food# and #not salty salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#not salty hot food# and #not salty salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#not salty hot food# and #not salty salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"not salty sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+
+   "not salty split chicken fillet roll": ["#not salty hot food mod##not salty hot food head#","#not salty salad mod##not salty salad head#","#not salty sauce mod##not salty sauce head#"],
+
+
+"not spicy chicken fillet roll": ["I made this chicken fillet roll with #not spicy split chicken fillet roll#"],
+  "not spicy hot food": ["Plain Breaded Chicken Fillet","Southern Fried Chicken Fillet"],
+   "not spicy salad": ["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese","Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Cucumber","Stuffing","Sweetcorn","Whole Boiled Egg"],
+   "not spicy sauce": ["Butter","Mayonnaise","Garlic Mayo","Sweet Tomato Relish","Green Pesto","Sweet Chilli Sauce","BBQ Sauce","Tomato Ketchup","Brown Sauce","Chipotle Mayo"],
+   "not spicy bread": ["#bread#"],
+
+  "not spicy hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#"],
+
+"not spicy hot food head":[
+"Sundae' because it also has Sliced Tomato with #not spicy sauce# in #not spicy bread# #cut option#",
+"Sauna' because it also has Coleslaw with #not spicy sauce# in #not spicy bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #not spicy sauce# in #not spicy bread# #cut option#",
+
+" Butterfingers' because it also has #not spicy salad#  with Butter in #not spicy bread# #cut option#",
+" Barbie Doll' because it also has  #not spicy salad# with BBQ Sauce in #not spicy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #not spicy salad#  with Chipotle Mayo in #not spicy bread# #cut option#",
+" Emperor' because it also has #not spicy salad# with Brown Sauce in #not spicy bread# #cut option#",
+" Gaucho' because it also has #not spicy salad# with Garlic Mayo in #not spicy bread# #cut option#",
+
+" #White bread aft# because it also has #not spicy salad# with #not spicy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #not spicy salad# with #not spicy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not spicy salad# with #not spicy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not spicy salad# with #not spicy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not spicy salad# with #not spicy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not spicy salad# with #not spicy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not spicy salad# with #not spicy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not spicy salad# with #not spicy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not spicy salad# with #not spicy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not spicy salad# with #not spicy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not spicy salad# with #not spicy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not spicy salad# with #not spicy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not spicy salad# with #not spicy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not spicy salad# with #not spicy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not spicy salad# with #not spicy sauce# in Tomato Wrap #cut option#"
+
+],
+
+"not spicy salad mod": [
+"#not spicy hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#not spicy hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#not spicy hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+ "#not spicy hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#not spicy hot food# and  Brie  and called it 'Cypriot",
+"#not spicy hot food# and  Goats Cheese and called it #Goats Cheese fore#",
+"#not spicy hot food# and  Coleslaw and called it 'Refresh",
+"#not spicy hot food# and  Egg Mayo and called it 'Protein-plus",
+"#not spicy hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not spicy hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#not spicy hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#not spicy hot food# and  Cucumber and called it #Cucumber fore#",
+"#not spicy hot food# and  Stuffing and called it #Stuffing fore#",
+"#not spicy hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not spicy hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#not spicy hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"not spicy salad head":[
+" Butterfingers' because it also has Butter in #not spicy bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #not spicy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #not spicy bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not spicy bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not spicy bread# #cut option#",
+
+" #White bread aft# because it also has #not spicy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not spicy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not spicy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not spicy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not spicy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not spicy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not spicy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not spicy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not spicy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not spicy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not spicy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not spicy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not spicy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not spicy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not spicy sauce# in Tomato Wrap #cut option#"
+],
+
+"not spicy sauce mod":[
+"#not spicy hot food# and #not spicy salad# with Butter and called it '#Butter fore#",
+"#not spicy hot food# and #not spicy salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#not spicy hot food# and #not spicy salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#not spicy hot food# and #not spicy salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#not spicy hot food# and #not spicy salad# with Green Pesto and called it '#Green Pesto fore#",
+"#not spicy hot food# and #not spicy salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#not spicy hot food# and #not spicy salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#not spicy hot food# and #not spicy salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#not spicy hot food# and #not spicy salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#not spicy hot food# and #not spicy salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"not spicy sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+
+   "not spicy split chicken fillet roll": ["#not spicy hot food mod##not spicy hot food head#","#not spicy salad mod##not spicy salad head#","#not spicy sauce mod##not spicy sauce head#"],
+
+
+"not dairy chicken fillet roll": ["I made this chicken fillet roll with #not dairy split chicken fillet roll#"],
+  "not dairy hot food": ["#hot food#"],
+   "not dairy salad": ["Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Sweetcorn","Mixed Peppers","Whole Boiled Egg"],
+   "not dairy sauce": ["#sauce#"],
+   "not dairy bread": ["#bread#"],
+
+  "not dairy hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"not dairy hot food head":[
+"BONG' because it also has Roasted Red Peppers with #not dairy sauce# in #not dairy bread# #cut option#",
+"Sundae' because it also has Sliced Tomato with #not dairy sauce# in #not dairy bread# #cut option#",
+"Sauna' because it also has Coleslaw with #not dairy sauce# in #not dairy bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #not dairy sauce# in #not dairy bread# #cut option#",
+
+" Butterfingers' because it also has #not dairy salad#  with Butter in #not dairy bread# #cut option#",
+" Barbie Doll' because it also has  #not dairy salad# with BBQ Sauce in #not dairy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #not dairy salad#  with Chipotle Mayo in #not dairy bread# #cut option#",
+" Emperor' because it also has #not dairy salad# with Brown Sauce in #not dairy bread# #cut option#",
+" Gaucho' because it also has #not dairy salad# with Garlic Mayo in #not dairy bread# #cut option#",
+
+" #White bread aft# because it also has #not dairy salad# with #not dairy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #not dairy salad# with #not dairy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not dairy salad# with #not dairy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not dairy salad# with #not dairy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not dairy salad# with #not dairy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not dairy salad# with #not dairy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not dairy salad# with #not dairy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not dairy salad# with #not dairy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not dairy salad# with #not dairy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not dairy salad# with #not dairy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not dairy salad# with #not dairy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not dairy salad# with #not dairy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not dairy salad# with #not dairy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not dairy salad# with #not dairy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not dairy salad# with #not dairy sauce# in Tomato Wrap #cut option#"
+
+],
+
+"not dairy salad mod": [
+"#not dairy hot food# and  Coleslaw and called it 'Refresh",
+"#not dairy hot food# and  Egg Mayo and called it 'Protein-plus",
+"#not dairy hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not dairy hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#not dairy hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#not dairy hot food# and  Red Onion and called it #Red Onion fore#",
+"#not dairy hot food# and  Cucumber and called it #Cucumber fore#",
+"#not dairy hot food# and  Stuffing and called it #Stuffing fore#",
+"#not dairy hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not dairy hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#not dairy hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#not dairy hot food# and Mixed Peppers and called it #Mixed Peppers fore#",
+"#not dairy hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"not dairy salad head":[
+" Butterfingers' because it also has Butter in #not dairy bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #not dairy bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #not dairy bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not dairy bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not dairy bread# #cut option#",
+
+" #White bread aft# because it also has #not dairy sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not dairy sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not dairy sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not dairy sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not dairy sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not dairy sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not dairy sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not dairy sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not dairy sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not dairy sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not dairy sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not dairy sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not dairy sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not dairy sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not dairy sauce# in Tomato Wrap #cut option#"
+],
+
+"not dairy sauce mod":[
+"#not dairy hot food# and #not dairy salad# with Butter and called it '#Butter fore#",
+"#not dairy hot food# and #not dairy salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#not dairy hot food# and #not dairy salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#not dairy hot food# and #not dairy salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#not dairy hot food# and #not dairy salad# with Green Pesto and called it '#Green Pesto fore#",
+"#not dairy hot food# and #not dairy salad# with Mustard and called it '#Mustard fore#",
+"#not dairy hot food# and #not dairy salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#not dairy hot food# and #not dairy salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#not dairy hot food# and #not dairy salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#not dairy hot food# and #not dairy salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#not dairy hot food# and #not dairy salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#not dairy hot food# and #not dairy salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"not dairy sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+   "not dairy split chicken fillet roll": ["#not dairy hot food mod##not dairy hot food head#","#not dairy salad mod##not dairy salad head#","#not dairy sauce mod##not dairy sauce head#"],
+
+
+"not protein-rich chicken fillet roll": ["I made this chicken fillet roll with #not protein-rich split chicken fillet roll#"],
+  "not protein-rich hot food": ["#hot food#"],
+   "not protein-rich salad": ["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese","Coleslaw","Iceberg Lettuce","Mixed Leaves","Sliced Tomato","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Sweetcorn","Mixed Peppers"],
+   "not protein-rich sauce": ["Butter","Garlic Mayo","Sweet Tomato Relish","Green Pesto","Mustard","Sweet Chilli Sauce","BBQ Sauce","Tomato Ketchup","Brown Sauce","Taco Sauce","Chipotle Mayo"],
+   "not protein-rich bread": ["#bread#"],
+
+  "not protein-rich hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"not protein-rich hot food head":[
+"BONG' because it also has Roasted Red Peppers with #not protein-rich sauce# in #not protein-rich bread# #cut option#",
+"Sundae' because it also has Sliced Tomato with #not protein-rich sauce# in #not protein-rich bread# #cut option#",
+"Sauna' because it also has Coleslaw with #not protein-rich sauce# in #not protein-rich bread# #cut option#",
+
+" Butterfingers' because it also has #not protein-rich salad#  with Butter in #not protein-rich bread# #cut option#",
+" Barbie Doll' because it also has  #not protein-rich salad# with BBQ Sauce in #not protein-rich bread# #cut option#",
+" #Chipotle Mayo aft# because it also has  #not protein-rich salad#  with Chipotle Mayo in #not protein-rich bread# #cut option#",
+" Emperor' because it also has #not protein-rich salad# with Brown Sauce in #not protein-rich bread# #cut option#",
+" Gaucho' because it also has #not protein-rich salad# with Garlic Mayo in #not protein-rich bread# #cut option#",
+
+" #White bread aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not protein-rich salad# with #not protein-rich sauce# in Tomato Wrap #cut option#"
+
+],
+
+"not protein-rich salad mod": [
+"#not protein-rich hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#not protein-rich hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#not protein-rich hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+ "#not protein-rich hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#not protein-rich hot food# and  Brie  and called it 'Cypriot",
+"#not protein-rich hot food# and  Goats Cheese and called it #Goats Cheese fore#",
+"#not protein-rich hot food# and  Coleslaw and called it 'Refresh",
+"#not protein-rich hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not protein-rich hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#not protein-rich hot food# and  Sliced Tomato and called it #Sliced Tomato fore#",
+"#not protein-rich hot food# and  Red Onion and called it #Red Onion fore#",
+"#not protein-rich hot food# and  Cucumber and called it #Cucumber fore#",
+"#not protein-rich hot food# and  Stuffing and called it #Stuffing fore#",
+"#not protein-rich hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not protein-rich hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#not protein-rich hot food# and  Sweetcorn and called it #Sweetcorn fore#",
+"#not protein-rich hot food# and Mixed Peppers and called it #Mixed Peppers fore#"
+],
+
+"not protein-rich salad head":[
+" Butterfingers' because it also has Butter in #not protein-rich bread# #cut option#",
+" Barbie Doll' because it also has BBQ Sauce in #not protein-rich bread# #cut option#",
+" #Chipotle Mayo aft# because it also has Chipotle Mayo in #not protein-rich bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not protein-rich bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not protein-rich bread# #cut option#",
+
+" #White bread aft# because it also has #not protein-rich sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not protein-rich sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not protein-rich sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not protein-rich sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not protein-rich sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not protein-rich sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not protein-rich sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not protein-rich sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not protein-rich sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not protein-rich sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not protein-rich sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not protein-rich sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not protein-rich sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not protein-rich sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not protein-rich sauce# in Tomato Wrap #cut option#"
+],
+
+"not protein-rich sauce mod":[
+"#not protein-rich hot food# and #not protein-rich salad# with Butter and called it '#Butter fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Sweet Tomato Relish and called it '#Sweet Tomato Relish fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Green Pesto and called it '#Green Pesto fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Mustard and called it '#Mustard fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Sweet Chilli sauce and called it '#Sweet Chilli sauce fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with BBQ Sauce and called it '#BBQ Sauce fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Tomato Ketchup and called it '#Tomato Ketchup fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Taco Sauce and called it '#Taco Sauce fore#",
+"#not protein-rich hot food# and #not protein-rich salad# with Chipotle Mayo and called it '#Chipotle Mayo fore#"
+],
+"not protein-rich sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+   "not protein-rich split chicken fillet roll": ["#not protein-rich hot food mod##not protein-rich hot food head#","#not protein-rich salad mod##not protein-rich salad head#","#not protein-rich sauce mod##not protein-rich sauce head#"],
+
+
+
+"not sweet chicken fillet roll": ["I made this chicken fillet roll with #not sweet split chicken fillet roll#"],
+  "not sweet hot food": ["#hot food#"],
+   "not sweet salad": ["Grated Red Cheese","Grated White Cheese","Sliced Red Cheese","Sliced White Cheese","Brie","Goats Cheese","Coleslaw","Egg Mayo","Iceberg Lettuce","Mixed Leaves","Red Onion","Cucumber","Stuffing","Roasted Red Peppers","Mixed Peppers","Whole Boiled Egg"],
+   "not sweet sauce": ["Butter","Mayonnaise","Garlic Mayo","Green Pesto","Mustard","Brown Sauce","Taco Sauce"],
+   "not sweet bread": ["#bread#"],
+
+  "not sweet hot food mod":["Plain Breaded Chicken Fillet and called it #Plain Breaded Chicken Fillet  fore#","Southern Fried Chicken Fillet and called it #Southern Fried Chicken Fillet fore#","Spicy Chicken Fillet and called it #Spicy Chicken Fillet fore#"],
+
+"not sweet hot food head":[
+"BONG' because it also has Roasted Red Peppers with #not sweet sauce# in #not sweet bread# #cut option#",
+"Sauna' because it also has Coleslaw with #not sweet sauce# in #not sweet bread# #cut option#",
+"Mummy' because it also has Whole Boiled Egg with #not sweet sauce# in #not sweet bread# #cut option#",
+
+" Butterfingers' because it also has #not sweet salad#  with Butter in #not sweet bread# #cut option#",
+" Emperor' because it also has #not sweet salad# with Brown Sauce in #not sweet bread# #cut option#",
+" Gaucho' because it also has #not sweet salad# with Garlic Mayo in #not sweet bread# #cut option#",
+
+" #White bread aft# because it also has #not sweet salad# with #not sweet sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has #not sweet salad# with #not sweet sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not sweet salad# with #not sweet sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not sweet salad# with #not sweet sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not sweet salad# with #not sweet sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not sweet salad# with #not sweet sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not sweet salad# with #not sweet sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not sweet salad# with #not sweet sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not sweet salad# with #not sweet sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not sweet salad# with #not sweet sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not sweet salad# with #not sweet sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not sweet salad# with #not sweet sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not sweet salad# with #not sweet sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not sweet salad# with #not sweet sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not sweet salad# with #not sweet sauce# in Tomato Wrap #cut option#"
+
+],
+
+"not sweet salad mod": [
+"#not sweet hot food# and  Grated Red Cheese and called it 'Yorkshire",
+"#not sweet hot food# and  Grated White Cheese and called it #Grated White Cheese fore#",
+"#not sweet hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+ "#not sweet hot food# and  Sliced White Cheese and called it #Sliced White Cheese fore#",
+"#not sweet hot food# and  Brie  and called it 'Cypriot",
+"#not sweet hot food# and  Goats Cheese and called it #Goats Cheese fore#",
+"#not sweet hot food# and  Coleslaw and called it 'Refresh",
+"#not sweet hot food# and  Egg Mayo and called it 'Protein-plus",
+"#not sweet hot food# and  Iceberg Lettuce and called it #Iceberg Lettuce fore#",
+"#not sweet hot food# and Mixed Leaves and called it #Mixed Leaves fore#",
+"#not sweet hot food# and  Red Onion and called it #Red Onion fore#",
+"#not sweet hot food# and  Cucumber and called it #Cucumber fore#",
+"#not sweet hot food# and  Stuffing and called it #Stuffing fore#",
+"#not sweet hot food# and  Sliced Red Cheese and called it #Sliced Red Cheese fore#",
+"#not sweet hot food# and  Roasted Red Peppers and called it #Roasted Red Peppers fore#",
+"#not sweet hot food# and Mixed Peppers and called it #Mixed Peppers fore#",
+"#not sweet hot food# and Whole Boiled Egg and called it #Whole Boiled Egg fore#"
+],
+
+"not sweet salad head":[
+" Butterfingers' because it also has Butter in #not sweet bread# #cut option#",
+" Emperor' because it also has Brown Sauce in #not sweet bread# #cut option#",
+" Gaucho' because it also has Garlic Mayo in #not sweet bread# #cut option#",
+
+" #White bread aft# because it also has #not sweet sauce# in White bread #cut option#",
+" #Brown bread aft# because it also has  #not sweet sauce# in Brown bread #cut option#",
+" #White bread aft# because it also has #not sweet sauce# in White bread #cut option#",
+" #White Demi Baguette aft# because it also has #not sweet sauce# in White Demi Baguette #cut option#",
+" #Triple Grain Demi Baguette aft# because it also has #not sweet sauce# in Triple Grain Demi Baguette #cut option#",
+" #Rustic Demi Baguette aft# because it also has #not sweet sauce# in Rustic Demi Baguette #cut option#",
+" #White bread aft# because it also has #not sweet sauce# in White bread #cut option#",
+" #Seeded Ciabatta aft# because it also has #not sweet sauce# in Seeded Ciabatta #cut option#",
+" #White bread aft# because it also has #not sweet sauce# in White bread #cut option#",
+" #White Sub aft# because it also has #not sweet sauce# in White Sub #cut option#",
+" #Bagel aft# because it also has #not sweet sauce# in Bagel #cut option#",
+" #Tortilla Wrap aft# because it also has #not sweet sauce# in Tortilla Wrap #cut option#",
+" #Spinach Wrap aft# because it also has #not sweet sauce# in Spinach Wrap #cut option#",
+" #Wholemeal Wrap aft# because it also has #not sweet sauce# in Wholemeal Wrap #cut option#",
+" #Tomato Wrap aft# because it also has #not sweet sauce# in Tomato Wrap #cut option#"
+],
+
+"not sweet sauce mod":[
+"#not sweet hot food# and #not sweet salad# with Butter and called it '#Butter fore#",
+"#not sweet hot food# and #not sweet salad# with Mayonnaise and called it '#Mayonnaise fore#",
+"#not sweet hot food# and #not sweet salad# with Garlic Mayo and called it '#Garlic Mayo fore#",
+"#not sweet hot food# and #not sweet salad# with Green Pesto and called it '#Green Pesto fore#",
+"#not sweet hot food# and #not sweet salad# with Mustard and called it '#Mustard fore#",
+"#not sweet hot food# and #not sweet salad# with Brown Sauce and called it '#Brown Sauce fore#",
+"#not sweet hot food# and #not sweet salad# with Taco Sauce and called it '#Taco Sauce fore#"
+],
+"not sweet sauce head":[
+" #White bread aft# because it also has White bread",
+" #Brown bread aft# because it also has Brown bread",
+" #White bread aft# because it also has White bread",
+" #White Demi Baguette aft# because it also has White Demi Baguette",
+" #Triple Grain Demi Baguette aft# because it also has Triple Grain Demi Baguette",
+" #Rustic Demi Baguette aft# because it also has Rustic Demi Baguette",
+" #White bread aft# because it also has White bread",
+" #Seeded Ciabatta aft# because it also has Seeded Ciabatta",
+" #White bread aft# because it also has White bread",
+" #White Sub aft# because it also has White Sub",
+" #Bagel aft# because it also has Bagel",
+" #Tortilla Wrap aft# because it also has Tortilla Wrap",
+" #Spinach Wrap aft# because it also has Spinach Wrap",
+" #Wholemeal Wrap aft# because it also has Wholemeal Wrap",
+" #Tomato Wrap aft# because it also has Tomato Wrap"
+],
+
+
+   "not sweet split chicken fillet roll": ["#not sweet hot food mod##not sweet hot food head#","#not sweet salad mod##not sweet salad head#","#not sweet sauce mod##not sweet sauce head#"]
+
+
+
+}
+
+
